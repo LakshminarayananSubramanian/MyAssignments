@@ -1,0 +1,35 @@
+package week1.day2;
+
+public class Palindrome {
+
+	public static void main(String[] args) {
+		int i=34343;
+		int j;
+		int k;
+		int temp=0;
+	
+		
+		
+	
+		for(j=i;j>0;j/=10) {
+			
+			
+			k=j%10;
+
+		 temp=(temp*10)+k;
+		 
+		}
+		if(s==i) {
+			
+			System.out.println(i +" - is a palindrome");
+			
+	}
+		else
+		{
+			System.out.println(i +" - is not a palindrome");
+			
+		}
+
+
+}
+}
