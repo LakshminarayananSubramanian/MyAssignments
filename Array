@@ -1,0 +1,19 @@
+package week1;
+
+public class Array7 {
+	public static void main(String[] args) {
+		int [] n= {2,5,3,4,7,8};
+		int length=n.length;
+		System.out.println(length-1);
+		for(int i=0;i<=length-2;i++)
+		{
+			System.out.println(n[i]);
+		}
+		{
+		System.out.println(n[length-2]);
+				
+
+}
+	}
+}
+
