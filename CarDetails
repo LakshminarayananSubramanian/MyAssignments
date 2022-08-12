@@ -1,0 +1,26 @@
+package week1;
+
+public class CarDetails {
+	
+	public static void main(String[] args) {
+		String brandName="Audi";
+		int price=5000000;
+		long engineNumber=87957563215756912L;
+		char noOfwheels ='5';
+		char gear ='7';
+		String chassisNumber="4567AK09876";
+		
+		System.out.println(brandName);
+		System.out.println(price);
+		System.out.println(engineNumber);
+		System.out.println(gear);
+		System.out.println(noOfwheels);
+		System.out.println(chassisNumber);
+		
+		
+		
+	}
+	
+	}
+
+
