@@ -1,0 +1,17 @@
+package week1;
+
+public class Oddevenloop {
+public static void main(String[] args) {
+	int i=12;
+	
+	for(i=0;i<=15;i++) {
+	if(i%2==0)
+		 {
+		System.out.println("Even no" +i);
+		
+		 }else
+			 System.out.println("Odd no" +i);
+	
+}
+}
+}
